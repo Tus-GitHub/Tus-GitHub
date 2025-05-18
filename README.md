@@ -86,6 +86,5 @@ MERN-based app for property browsing and management with cloud image uploads, fi
 
 - 📧 Email: [tushardhull22@gmail.com](mailto:tushardhull22@gmail.com)
 - 🌐 LinkedIn: [Tushar Dhull](https://linkedin.com/in/tushar-dhull-983306211/)
-- 💻 GitHub: [Tus-GitHub](https://github.com/Tus-GitHub)
 
 ---
