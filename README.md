@@ -1,4 +1,4 @@
-# README.md<h1 align="center">Hi 👋, I'm Tushar Dhull</h1>
+<h1 align="center">Hi 👋, I'm Tushar Dhull</h1>
 <h3 align="center">A passionate Full Stack Developer with a strong foundation in React, TypeScript, Leaflet, and scalable web applications.</h3>
 
 <p align="center">
